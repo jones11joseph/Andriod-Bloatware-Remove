@@ -49,12 +49,13 @@ Success
 guamp:/ $
 ********************************************************
 
-1. For Google App  Name and their package name refer Google Packages List file
+1. For Google App  Name and their package name refer https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/google%20packages%20list
 
-2. For Meta / Facebook App Name and their Package name refer Meta Packages list file
+2. For Meta / Facebook App Name and their Package name refer https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/Meta%20Package%20List
 
 3. For Xiaomi / MiUi Debloater tool use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/Xiaomi%20ADB%20%26%20Fastboot%20Tools.jar
 
-4. 
-5. 
+4. For Coloros / OPPO Debloater List use  https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/coloros-debloat
+   
+6. For Oneplus / Oxygenos Debloater List use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/oneplus%20oxygenos%20debloat%20list
 
