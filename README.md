@@ -59,3 +59,5 @@ guamp:/ $
    
 6. For Oneplus / Oxygenos Debloater List use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/oneplus%20oxygenos%20debloat%20list
 
+7. For Motorola / Stock / My UX / Moto UX Debloater List use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/Moto%20Debloat%20list
+
