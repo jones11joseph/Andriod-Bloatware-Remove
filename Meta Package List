@@ -1,3 +1,5 @@
+Andriod-Bloatware-Remove 2024 August 30 By Jones Joseph
+********************************************************
 WhatsApp Messenger
 com.whatsapp
 
@@ -22,8 +24,13 @@ com.facebook.lite
 Meta Spark Player
 com.facebook.arstudio.player
 
-other Non-Associated packages without App name
+other Non-Associated packages without App name in play store
 
 com.facebook.appmanager
 com.facebook.services
 com.facebook.system
+
+com.facebook.system -> Facebook App Installer
+com.facebook.appmanager -> Facebook App Manager
+com.facebook.services -> Facebook Services
+
