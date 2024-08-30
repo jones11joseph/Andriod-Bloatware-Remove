@@ -28,6 +28,8 @@ guamp:/ $
 
 2. For Meta / Facebook App Name and their Package name refer Meta Packages list file
 
-3. 
+3. For Xiaomi / MiUi Debloater tool use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/Xiaomi%20ADB%20%26%20Fastboot%20Tools.jar
+
 4. 
+5. 
 
