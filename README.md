@@ -31,7 +31,7 @@ Failure [delete_failed_internal_error]: You’ll get this error on your device i
 ************* 
 Restore Uninstalled System Apps
 ************* 
-In case you uninstall an Oppo system app by mistake, don’t worry. You can re-install it using the following command.
+In case you uninstall an system app by mistake, don’t worry. You can re-install it using the following command.
 
 adb shell 
 cmd package install-existing com.package.name
