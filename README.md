@@ -74,3 +74,8 @@ guamp:/ $
 
 7. For Motorola / Stock / My UX / Moto UX Debloater List use https://github.com/jones11joseph/Andriod-Bloatware-Remove/blob/main/Moto%20Debloat%20list
 
+   *************************************
+Debloater Motorola
+WARNING  Below script will completely remove 95% of apps on Motorola phone
+use very carefully think twice before use ** End User Responsibility **
+
