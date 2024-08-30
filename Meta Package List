@@ -30,6 +30,9 @@ com.facebook.lite
 Meta Spark Player
 com.facebook.arstudio.player
 
+Meta Ads Manager
+com.facebook.adsmanager
+
 other Non-Associated packages without App name in play store
 
 com.facebook.appmanager
