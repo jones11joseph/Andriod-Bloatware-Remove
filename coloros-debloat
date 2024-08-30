@@ -1,0 +1,185 @@
+Android Apps on Color OS / Oppo  30 Aug 2024
+***************************************
+pm uninstall -k --user 0 (to uninstall app but keep app data)
+
+pm uninstall --user 0 (to delete app and its data both)
+
+********** Uninstallation Failed Errors *****************
+
+Failure [not installed for 0]: It means the app package you are trying to remove is not installed on your phone.
+Failure [delete_failed_internal_error]: You’ll get this error on your device if the OEM has disabled the uninstallation of a system app so you can’t uninstall it.
+
+************* Restore Uninstalled System Apps ************* 
+In case you uninstall an Oppo system app by mistake, don’t worry. You can re-install it using the following command.
+cmd package install-existing com.oppo.usercenter
+
+************* Disable Apps ************* 
+adb shell 
+pm disable-user --user 0 com.coloros.childrenspace
+****************************************
+com.android.bips | Default Print Service
+
+com.android.bookmarkprovider
+
+com.android.cellbroadcastreceiver
+
+com.android.cellbroadcastreceiver.overlay.common
+
+com.android.egg | Easter Egg
+
+com.android.mms.service | MMS
+
+com.android.printspooler | Mobile Printing service
+
+com.android.providers.calendar | Calendar
+
+com.android.providers.partnerbookmarks | Chrome bookmarks
+
+com.android.providers.userdictionary | Keyboard dictionary
+
+com.android.vpndialogs | VpnDialogs
+
+com.android.wallpaper.livepicker | Live wallpaper selector
+
+com.android.wallpaperbackup | Wallpaper app
+
+com.android.wallpapercropper | Wallpaper cropper
+
+com.caf.fmradio | FM Radio service
+
+
+************* Color OS System Apps *************
+com.coloros.aftersalesservice
+
+com.coloros.alarmclock | Alarm app
+
+com.coloros.assistantscreen | Smart Assistant
+
+com.coloros.backuprestore | Clone Phone
+
+com.coloros.backuprestore.remoteservice
+
+com.coloros.childrenspace | Kid Space
+
+com.coloros.cloud | Oppo Cloud
+
+com.coloros.compass2 | Compass
+
+com.coloros.floatassistant | Floating app window
+
+com.coloros.focusmode | Focus Mode
+
+com.coloros.gallery3d | Gallery app
+
+com.coloros.gamespace | Game Center
+
+com.coloros.healthcheck | Quick Check
+
+com.coloros.healthservice | Device Health Check
+
+com.coloros.musiclink | Music Party
+
+com.coloros.safesdkproxy | Phone Cleaner & Antivirus (spyware)
+
+com.coloros.screenrecorder | Screen Recorder
+
+com.coloros.smartsidebar | Smart Sidebar
+
+com.coloros.speechassist | Chinese bloat
+
+com.coloros.soundrecorder | Voice Recorder
+
+com.coloros.translate.engine | Translation app
+
+com.coloros.weather.service | Color OS Weather app
+
+com.coloros.widget.smallweather | Weather widget
+
+
+************* Google Apps on Oppo ************* 
+
+com.google.android.apps.googleassistant | Google Assistant
+
+com.google.android.apps.nbu.files | Files by Google
+
+com.google.android.apps.photos | Google Photos
+
+com.google.android.apps.wellbeing | Digital Wellbeing
+
+com.google.android.calendar | Calendar
+
+com.google.android.documentsui | Files 9
+
+com.google.android.feedback | Google Feedback
+
+com.google.android.googlequicksearchbox | Search Widget
+
+com.google.android.inputmethod.latin | Gboard
+
+com.google.android.keep | Google Keep
+
+com.google.android.marvin.talkback | Android  Talkback
+
+com.google.android.tag | Tags
+
+com.google.android.tts | Text-to-Speech service
+
+com.google.ar.core | AR Core
+
+com.google.ar.lens | Google Lens
+
+
+************* 3rd-Party Bloatware on Oppo ************* 
+
+com.facebook.appmanager | Facebook
+
+com.facebook.services | Facebook
+
+com.facebook.system | Facebook
+
+com.nearme.atlas | Secure Payment
+
+com.nearme.statistics.rom
+
+com.netflix.mediaclient | Netflix
+
+com.netflix.partner.activation | Netflix
+
+com.opera.preinstall | Opera browser
+
+com.redteamobile.roaming | ORoaming
+
+com.redteamobile.roaming.deamon | ORoaming
+
+com.tencent.soter.soterserver | Chinese bloat
+
+Oppo Default System Apps
+
+com.oppo.gmail.overlay
+
+com.oppo.market / com.app.market | Oppo App Market
+
+com.oppo.music | Music app
+
+com.oppo.operationmanual | User Guide
+
+com.oppo.partnerbrowsercustomizations | Browser bookmarks
+
+com.oppo.quicksearchbox | Search widget
+
+com.oppo.tzupdate | Calibrate Time Zone
+
+com.oppo.usercenter | OPPO Account Services
+
+com.oppoex.afterservice
+
+************* Disable These Apps to Block OTA Update ************* 
+If you don’t want to get software updates via OTA on your Oppo smartphone, you can disable or uninstall the following system apps.
+************************** 
+com.coloros.sau
+
+com.coloros.sauhelper
+
+com.oppo.otaui
+
+com.oppo.ota
