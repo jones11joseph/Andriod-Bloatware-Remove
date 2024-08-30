@@ -1,5 +1,8 @@
 Andriod-Bloatware-Remove 2024 August 30 By Jones Joseph
 ********************************************************
+adb shell
+pm uninstall -k --user 0 
+********************************************************
 WhatsApp Messenger
 com.whatsapp
 
