@@ -1,6 +1,9 @@
 # Andriod-Bloatware-Remove 2024 August 30 By Jones Joseph
 Andriod-Bloatware-Remove
 *******************************************************
+Latest Standalone Android SDK Platform Tools package, and enable USB Debugging from Developer options
+https://developer.android.com/studio/releases/platform-tools
+********************************************************
 adb shell
 pm uninstall -k --user 0 
 *******************************************************
