@@ -25,6 +25,7 @@ Uninstallation Failed Errors
 *****************
 
 Failure [not installed for 0]: It means the app package you are trying to remove is not installed on your phone.
+
 Failure [delete_failed_internal_error]: You’ll get this error on your device if the OEM has disabled the uninstallation of a system app so you can’t uninstall it.
 
 ************* 
