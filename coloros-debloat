@@ -1,3 +1,6 @@
+*************************************
+Debloater Color OS / Oppo 
+
 Android Apps on Color OS / Oppo  30 Aug 2024
 ***************************************
 pm uninstall -k --user 0 (to uninstall app but keep app data)
