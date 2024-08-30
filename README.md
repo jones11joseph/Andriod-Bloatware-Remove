@@ -47,14 +47,16 @@ pm disable-user --user 0 com.package.name
 **************** 
 To remove Google TV and Google One --- Output from device 
 *********
-
 adb shell
 * daemon not running; starting now at tcp:5037
 * daemon started successfully
+* 
 guamp:/ $ pm uninstall -k --user 0 com.google.android.videos
 Success
+
 guamp:/ $ pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 Success
+
 guamp:/ $
 ********************************************************
 
